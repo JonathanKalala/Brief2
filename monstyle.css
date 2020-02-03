@@ -1,0 +1,87 @@
+
+body{
+    background-color: #C8C8C8;
+    
+}
+.div1 {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 80px;
+    font-size: 17px;
+    font-family: Roboto;
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+    line-height: 5px;
+   
+}
+a,h2 {
+    color:#E5001C;
+}
+.Noir {
+    background-color: #333333;
+    color: white;
+}
+#Event {
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    cursor: pointer;
+}
+.Grisclair {
+    background-color: #DDDDDD;
+
+}
+figure{
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: 800px;
+    background-color: #C8C8C8;
+    
+}
+.affichage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+figcaption {
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+}
+tr:hover{
+    background-color: #999999;
+}
+.div2 {
+    border: 3px solid #E5001C;
+    border-radius: 14px;
+    background-color: #333333;
+}
+.div3 {
+    border-style: dashed;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: #B7B7B7;
+    color: #572DB2;
+}
+blockquote{
+    font-style: italic;
+}
+.gras{
+    font-weight: bold;
+}
+h1, h2, h3{
+    font-family: 'Baskervville';
+}
+p{
+    font-family: Roboto;
+}
